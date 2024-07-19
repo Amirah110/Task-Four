@@ -21,3 +21,8 @@
 5- open the XMAPP and click start on the apache and mysql.
 
 6- open the phpMyAdmine and create the database and then create the table to store text.
+
+![‏‏لقطة الشاشة (63)](https://github.com/user-attachments/assets/9a15acf3-e6e1-4661-a76d-ffea57deeb2b)
+
+![‏‏لقطة الشاشة (64)](https://github.com/user-attachments/assets/6fc026d9-a128-4efd-90bb-1e094a1c6f66)
+
